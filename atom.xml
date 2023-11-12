@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Snow</title>
   
   
   <link href="https://blog.yukina.tw/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://blog.yukina.tw/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Snow</name>
     
   </author>
   
